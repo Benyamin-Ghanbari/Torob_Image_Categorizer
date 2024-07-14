@@ -20,4 +20,4 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Benyamin-Ghanbari/Torob_Image_Categorize.git
-cd product Torob_Image_Categorize
+
